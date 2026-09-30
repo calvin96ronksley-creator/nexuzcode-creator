@@ -1,0 +1,6 @@
+{
+  "name": "CYBERPULSE - 3D Network & Telemetry Visualizer",
+  "description": "Futuristische interaktive 3D-Netzwerkanalyse mit globaler Verbindungs-Topologie, Echtzeit-Traffic, Hop-by-Hop Traceroute und WHOIS-Inspektion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
